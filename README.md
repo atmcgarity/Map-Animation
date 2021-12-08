@@ -1,7 +1,7 @@
 # Map-Animation
 This project is an asignment I did as part of the MIT Full Stack Coding Bootcamp. It allows you to create several PacMen and you get to watch as they move around the screen.
 # How to Run
-In order to run this project You would need to fork the files from this repository and then drag the html file into a browser. From there you can use the buttons "Add PacMan" to add a PacMan and "Start Game" to make the PacMen move.
+In order to run this project You would need to fork the files from this repository so you can get the files onto your own machine. You then drag the HTML file into a browser. From there you can use the buttons "Add PacMan" to add a PacMan and "Start Game" to make the PacMen move.
 # Roadmap
 There is alot to add with this one as the state it is currently in is rather janky. I would like to make the PacMen actually chomp as they move around the page. They also lose a lot of velocity when they hit an edge so I would like to change that as well. They also do not bounce off of the top of the page and instead just float away. That's a problem and one I would like to solve.
 # License Information
