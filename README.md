@@ -1,5 +1,5 @@
 # Map-Animation
-This project is an asignment I did as part of the MIT Full Stack Coding Bootcamp. It shows several markers that represent the varioius bus stop that stretch between the MIT and Harvard campuses. 
+This project is an asignment I did as part of the MIT Full Stack Coding Bootcamp. It shows several markers that represent the varioius bus stop that stretch between the MIT and Harvard campuses. This project is heavy on its use of JavaScipt and also includes a bit of CSS for styling. It also shows the use of API's and public tokens in the form of Mapboxm, a website used to allow programmers to access maps that they can then implement into their own code.
 # How to Run
 In order to run this project You would need to fork the files from this repository so you can get the files onto your own machine. You then drag the HTML file into a browser. You can then click the button "Show stops between MIT and Harvard" to see the markers move along the map.
 # Roadmap
